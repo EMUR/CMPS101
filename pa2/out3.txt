@@ -1,0 +1,41 @@
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+#                python3 RandomInput1.py 
+ 
+# RandomInput1.py
+ 
+# by mixing up the lines in this file. To run this program do: 
+ 
+#------------------------------------------------------------------------------ 
+#------------------------------------------------------------------------------ 
+#close files   
+ 
+#sort list and write lines to outfile
+ 
+#to mix-up some other file put its name in place of 'RandomInput1.py'
+ 
+#write mixed lines to infile
+ 
+L 
+L.sort() 
+L= thisfile.readlines()
+ 
+for 
+forline in L:
+ 
+from 
+fromrandom import shuffle
+ 
+infile.close() 
+infile.write(line) 
+thisfile 
+thisfile.close() 
+thisfile= open('RandomInput1.py','r')  
+ 
